@@ -28,7 +28,8 @@
     "pug": "^2.0.3",
     "urllib": "^2.38.0",
     "wechaty": "^1.18.1",
-    "wechaty-puppet-xp": "^1.10.27"
+    "wechaty-puppet-xp": "^1.10.27",
+    "wechaty-puppet-wechat4u":"1.14.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"

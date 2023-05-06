@@ -14,7 +14,7 @@ const {
 	log,
 	types,
 } = require('wechaty')
-const { PuppetXp } = require('wechaty-puppet-xp')
+const { PuppetWechat4u } = require('wechaty-puppet-wechat4u')
 const {onLogin,onLogout} = require('./lib/Login')
 const onFriendShip = require('./lib/FriendShip')
 const onMessage = require('./lib/Message')
